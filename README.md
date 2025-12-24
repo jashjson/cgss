@@ -34,7 +34,7 @@ npm run dev
 
 For inquiries about solar installations or services, visit our website or reach out to our team.
 Contact: 9842582023
-Email: crystalgridsolar@gmail.com
+Email: info@crystalgrid.in
 
 ## License
 
